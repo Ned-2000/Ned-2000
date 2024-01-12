@@ -1,7 +1,7 @@
 ### Hey there, I'm Ned! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="400"/>
 </div>
 
 <div id="badges" align="center" >
